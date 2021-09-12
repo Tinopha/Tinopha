@@ -15,4 +15,4 @@ Hi , i'm Tinopha a Full-Stack developer in C# and Python
 ## How to contact me
 - Discord: [Tinopha#0002](https://discord.gg/W7cY7FH)
 
-- Guilden : [Tinopha](https://www.guilded.gg/i/MkdNndQE)
+- Guilded : [Tinopha](https://www.guilded.gg/i/MkdNndQE)
