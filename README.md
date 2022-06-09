@@ -1,18 +1,19 @@
-# Tinopha
-Hi , i'm Tinopha a Full-Stack developer in C# and Python
+# Hey There! 👋
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tinopha)](https://github.com/anuraghazra/github-readme-stats)
+**I'm Tinopha (he/him)** - I'm a Full-stack developer, high school student in Numerical System. I code for fun.
 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,python,vscode,blender" />
+  </a>
 
-## Programming languages:
-<p>
-  <img alt="csharp" src="https://img.shields.io/badge/-Csharp-43853D?style=flat-square&logo=Csharp&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/-Python-21B500?style=flat-square&logo=python&logoColor=white" />
-</p>
+ㅤ
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinopha&layout=compact)](https://github.com/tinopha/github-readme-stats)
+![ProfilViews](https://komarev.com/ghpvc/?username=Tinopha&color=blue)
+![Twitter](https://img.shields.io/badge/Follow-%40Tinophaa-blue.svg?style=flat&logo=twitter)
 
-## How to contact me
-- Discord: [Tinopha#0002](https://discord.gg/W7cY7FH)
-
-- Guilded : [Tinopha](https://www.guilded.gg/i/MkdNndQE)
+<details>
+  <summary>⚡ Github Stats</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tinopha&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinopha&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+</details>
