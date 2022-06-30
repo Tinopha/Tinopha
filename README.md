@@ -8,8 +8,9 @@
 
 ㅤ
 
-![ProfilViews](https://komarev.com/ghpvc/?username=Tinopha&color=blue)
-![Twitter](https://img.shields.io/badge/Follow-%40Tinophaa-blue.svg?style=flat&logo=twitter)
+![ProfilViews](https://komarev.com/ghpvc/?username=Tinopha&color=green)
+![Twitter](https://img.shields.io/badge/Follow-%40Tinopha-blue.svg?style=flat&logo=twitter)
+![Guilded](https://img.shields.io/badge/Guilded-%40Tinopha-yellow.svg?style=flat&logo=guilded)
 
 <details>
   <summary>⚡ Github Stats</summary>
